@@ -37,7 +37,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-Before using our project, please make sure you have downloaded and installed all the following softwares:
+Before using our project, please make sure you have downloaded and installed all the following software:
 * Python 3 (version 3.10.2)
 * pip (version 19.3 or newer)
 * OpenCV (version 4.5.5.62 or newer)
@@ -46,7 +46,7 @@ Before using our project, please make sure you have downloaded and installed all
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Our project shows an optical illusion. We are using a background image with gradient and three identical cutouts from the middle. One is placed at the top-left corner (darker background) and another is placed at the bottom-right corner (lighter background). While the third one is moving in one big circle showing that both cutouts in the corners do have the same color even if it does not seem like it. 
+Our project shows an optical illusion. We are using a background image with gradient and three identical cutouts from the middle. One is placed in the top-left corner (darker background) and another is placed in the bottom-right corner (lighter background). While the third one is moving in one big circle showing that both cutouts in the corners do have the same color even if it does not seem like it. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
