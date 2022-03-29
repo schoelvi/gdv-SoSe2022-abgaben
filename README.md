@@ -46,7 +46,7 @@ Before using our project, please make sure you have downloaded and installed all
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Our project shows an optical illusion using  Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Our project shows an optical illusion. We are using a background image with gradient and three cutouts from the middle. One is placed at the top-left corner (darker background) and another is placed at the bottom-right corner (lighter background). While the third one is moving in one big circle showing that both cutouts in the corners do have the same color even if it does not seem like it. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
