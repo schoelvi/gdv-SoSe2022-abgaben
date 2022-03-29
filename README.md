@@ -31,8 +31,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 As part of the course "Grafische Datenverarbeitung" in the summer term 2022 at HS-Furtwangen we are asked to write our own projects.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
