@@ -56,7 +56,7 @@ Our programm is supposed to count objects. Out of many multicoloured chewing gum
 <!-- HOWTOUSE -->
 ## How to use
 
-1. Open file "aufgabe2.py".
+1. Open file "aufgabe2.py" with the editor of your choice.
 2. Run Python file pressing  <img width="34" alt="Bildschirmfoto 2022-03-29 um 10 59 22" src="https://user-images.githubusercontent.com/72465216/160575079-c79fb7ef-d1e8-4ce0-a107-5bd04166637f.png">  button.
 3. To end the window press "q". 
 
