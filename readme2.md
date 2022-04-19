@@ -1,4 +1,4 @@
-# GDV-SoSe2022 - Assignment 1
+# GDV-SoSe2022 - Assignment 2
 
 <!-- TABLE OF CONTENTS -->
 <details>
