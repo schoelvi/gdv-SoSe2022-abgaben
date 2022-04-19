@@ -46,7 +46,7 @@ Before using our project, please make sure you have downloaded and installed all
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Our project shows an optical illusion. We are using a background image with gradient and three identical cutouts from the middle. One is placed in the top-left corner (darker background) and another is placed in the bottom-right corner (lighter background). While the third one is moving in one big circle showing that both cutouts in the corners do have the same color even if it does not seem like it. 
+Our project is supposed to count objects. Out of many multicoloured chewing gum balls our programm is surposed to count all the blue chewing gum balls. We will be counting the blue chewing gum balls in several known pictures as also in several unknown pictures.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
