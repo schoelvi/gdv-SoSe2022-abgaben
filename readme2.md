@@ -33,8 +33,6 @@ As part of the course "Grafische Datenverarbeitung" in the summer term 2022 at H
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 Before using our project, please make sure you have downloaded and installed all the following software:
