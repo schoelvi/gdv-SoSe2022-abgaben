@@ -38,7 +38,7 @@ As part of the course "Grafische Datenverarbeitung" in the summer term 2022 at H
 Before using our project, please make sure you have downloaded and installed all the following software:
 * Python 3 (version 3.10.2) from [python.org](https://www.python.org/downloads/)
 * pip (version 19.3 or newer) from https://pip.pypa.io/en/stable/installation/
-* OpenCV (version 4.5.5.62 or newer)
+* OpenCV (version 4.5.5.62 or newer) as explained on https://pypi.org/project/opencv-python/
  
 
 <!-- USAGE EXAMPLES -->
