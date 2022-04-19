@@ -46,7 +46,7 @@ Before using our project, please make sure you have downloaded and installed all
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Our project is supposed to count objects. Out of many multicoloured chewing gum balls our programm is surposed to count all the blue chewing gum balls. We will be counting the blue chewing gum balls in several known pictures as also in several unknown pictures.
+Our programm is supposed to count objects. Out of many multicoloured chewing gum balls our programm is surposed to count all the blue chewing gum balls. We will be counting the blue chewing gum balls in several known pictures and also in several unknown pictures. If you want to test your picture, you must put it in the folder images in our project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -56,7 +56,7 @@ Our project is supposed to count objects. Out of many multicoloured chewing gum 
 <!-- HOWTOUSE -->
 ## How to use
 
-1. Open file "aufgabe1.py" with Visual Studio Code.
+1. Open file "aufgabe2.py".
 2. Run Python file pressing  <img width="34" alt="Bildschirmfoto 2022-03-29 um 10 59 22" src="https://user-images.githubusercontent.com/72465216/160575079-c79fb7ef-d1e8-4ce0-a107-5bd04166637f.png">  button.
 3. To end the window press "q". 
 
